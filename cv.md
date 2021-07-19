@@ -2,7 +2,7 @@
 
 [_seferovdaniyar@gmail.com_](mailto:seferovdaniyar@gmail.com)
 
-_https://www.drupal.org/user/3511268/track_
+[_https://www.drupal.org/user/3511268/track_](https://www.drupal.org/user/3511268/track)
 
 Drupal developer with 7 years of experience in various web applications and programming languages such as PHP, Drupal, HTML5, CSS3, JavaScript, MySQL. Managed several projects for large corporate clients using both Drupal 7 and 8, including full Drupal deployment services. Highly experienced using Drupal Content Management Systems CMS. Implemented List Interest Groups for Webform Mailchimp module in Drupal 7 and Drupal 8. Driven to provide excellent service and high-quality coding to create secure and functional sites for clients. Worked remotely last 2 years.
 
